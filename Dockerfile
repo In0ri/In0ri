@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow
+FROM tensorflow/tensorflow:2.17.0rc0
 
 LABEL maintainer="Nguyen Hoang <htnguyen98.act@gmail.com>"
 
